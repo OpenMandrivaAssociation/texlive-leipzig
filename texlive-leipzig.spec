@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-leipzig
 Version:	1.1
-Release:	6
+Release:	7
 Summary:	Typeset and index linguistic gloss abbreviations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/leipzig
