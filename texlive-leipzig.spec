@@ -1,12 +1,6 @@
-# revision 31045
-# category Package
-# catalog-ctan /macros/latex/contrib/leipzig
-# catalog-date 2013-06-19 00:57:02 +0200
-# catalog-license lppl1.3
-# catalog-version 1.1
 Name:		texlive-leipzig
-Version:	1.1
-Release:	9
+Version:	2.0
+Release:	1
 Summary:	Typeset and index linguistic gloss abbreviations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/leipzig
@@ -36,14 +30,10 @@ package for easy indexing and glossary printing.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/leipzig/leipzig.sty
-%doc %{_texmfdistdir}/doc/latex/leipzig/README
-%doc %{_texmfdistdir}/doc/latex/leipzig/README.txt
-%doc %{_texmfdistdir}/doc/latex/leipzig/leipzig.pdf
-%doc %{_texmfdistdir}/doc/latex/leipzig/leipzig.tex
+%{_texmfdistdir}/tex/latex/leipzig
+%doc %{_texmfdistdir}/doc/latex/leipzig
 #- source
-%doc %{_texmfdistdir}/source/latex/leipzig/leipzig.dtx
-%doc %{_texmfdistdir}/source/latex/leipzig/leipzig.ins
+%doc %{_texmfdistdir}/source/latex/leipzig
 
 #-----------------------------------------------------------------------
 %prep
