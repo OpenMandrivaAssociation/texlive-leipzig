@@ -1,6 +1,6 @@
 Name:		texlive-leipzig
 Version:	52450
-Release:	1
+Release:	2
 Summary:	Typeset and index linguistic gloss abbreviations
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/leipzig
